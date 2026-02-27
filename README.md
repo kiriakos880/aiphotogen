@@ -19,3 +19,5 @@ This project allows users to generate images from text prompts.
 This project **does NOT include an OpenAI API key**.
 
 You must provide your own API key to use this app.
+
+<img width="493" height="816" alt="image" src="https://github.com/user-attachments/assets/6188a542-e7f1-4c3e-8f1f-94159486e9c7" />
